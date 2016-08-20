@@ -70,7 +70,7 @@ ba_track_id: f31c9ccafb8b88cfd3c1beb7029baab7
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，看看书，读读博客，玩玩手机。"
-sidebar-avatar: /img/avatar-android.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/favicon.ico     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
