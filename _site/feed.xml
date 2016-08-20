@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android Plus</title>
+    <description>关于Android学习、开发和设计的世界。</description>
+    <link>http://androidplus.github.io/</link>
+    <atom:link href="http://androidplus.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 20 Aug 2016 13:16:08 +0800</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2016 13:16:08 +0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Android 收集</title>
+        <description>&lt;h3 id=&quot;section&quot;&gt;博客收集&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;博主&lt;/th&gt;
+      &lt;th&gt;主要内容&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://blog.csdn.net/Luoshengyang/&quot;&gt;老罗的Android之旅&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Android源码情景剖析&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://gityuan.com&quot;&gt;Gityuan&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;基于 Android 6.0  系统 源码分析&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://blog.csdn.net/innost?viewmode=contents&quot;&gt;邓平凡&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;深入理解Android 系列&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.lcode.org/&quot;&gt;江清清的技术专栏&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;主要 React Native&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;技术网站&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;名称&lt;/th&gt;
+      &lt;th&gt;主要内容&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://gank.io/&quot;&gt;干货集中营&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://androidblog.cn/&quot;&gt;Android Weekly &lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Android 开发圈子最早，最有名的周报&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://androidblog.cn/&quot;&gt;Android Blog 周刊 &lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://weibo.com/p/1005052106134235&quot;&gt;@陆镇生_Jomeslu &lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.androidweekly.cn/&quot;&gt;Android开发技术周报 &lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://weibo.com/234959219&quot;&gt;@脉脉不嘚語&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.androidcat.com/?from=androidplus&quot;&gt;Androidcat&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Android 书签导航&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.jikedaohang.com/&quot;&gt;极客导航&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;技术导航&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://p.codekk.com/&quot;&gt;codekk&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Android 开源库搜索、分析&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.jcodecraeer.com/&quot;&gt;泡在网上的日子&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Android 开源库 、技术文章&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.tuicool.com/&quot;&gt;推酷&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;IT人专属的个性聚合阅读社区（爬虫聚合）&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2016 12:00:00 +0800</pubDate>
+        <link>http://androidplus.github.io/2016/08/20/Android-%E6%94%B6%E9%9B%86/</link>
+        <guid isPermaLink="true">http://androidplus.github.io/2016/08/20/Android-%E6%94%B6%E9%9B%86/</guid>
+        
+        <category>Android</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
